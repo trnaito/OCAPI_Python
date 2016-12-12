@@ -1,0 +1,153 @@
+{"doc":
+	{"info":
+		{"calaisRequestID":"594abd53-8726-7942-158f-1b98a566f654",
+		"id":"http:\/\/id.opencalais.com\/dAH1S4D-jsh*Ez9yq6nmCQ",
+		"ontology":"http:\/\/mdaas-virtual-onecalais.int.thomsonreuters.com\/owlschema\/10.0\/onecalais.owl.allmetadata.xml",
+		"docId":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276",
+		"document":"--f98e6ebf769d4239b810e712ca5793dc \nContent-Disposition: form-data; 
+			name=\"file\"; 
+			filename=\"testnews1.txt\" \n \nU.S. President-elect Donald Trump said the United States did not necessarily have to stick to its long-standing position that Taiwan is part of \"one China,\" questioning nearly four decades of policy in a move likely to antagonize Beijing. \n--f98e6ebf769d4239b810e712ca5793dc-- \n",
+		"docTitle":"",
+		"docDate":"2016-12-12 06:30:18.648"},
+		"meta":
+			{"contentType":"text\/raw",
+				"processingVer":"AllMetadata",
+				"serverVersion":"OneCalais_10.0-RELEASE:120",
+				"stagsVer":"OneCalais_10.0-RELEASE-b11-2016-09-28_11:01:17",
+				"submissionDate":"2016-12-12 06:30:18.454",
+				"submitterCode":"0ca6a864-5659-789d-5f32-f365f695e757",
+				"signature":"digestalg-1|AaNGM+x0J4bj8kHLVBqesHIQJ2o=|MJZFf0vbjzYBgouzbelDFTiO6+eDkO9bICM8ldQMKoDr8u4HNv\/a0g==",
+				"language":"English"}},
+				"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/lid\/DefaultLangId":
+				{"_typeGroup":"language",
+					"language":"http:\/\/d.opencalais.com\/lid\/DefaultLangId\/English",
+					"forenduserdisplay":"false",
+					"permid":"505062"
+				},
+			"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/1":
+			{"_typeGroup":"socialTag",
+				"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/1",
+				"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/9efd0bee-0479-336f-a246-d987f6406804",
+				"forenduserdisplay":"true",
+				"name":"Business",
+				"importance":"1",
+				"originalValue":"Business"},
+				"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/2":
+				{"_typeGroup":"socialTag",
+					"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/2",
+					"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/0e6ce8a5-a49c-3fc2-b372-fad1e9a2ac36",
+					"forenduserdisplay":"true",
+					"name":"American people of German descent",
+					"importance":"1",
+					"originalValue":"American people of German descent"
+				},
+			"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/3":
+			{"_typeGroup":"socialTag",
+				"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/3",
+				"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/70a49b00-55d8-3dca-a88f-e26b86216054",
+				"forenduserdisplay":"true",
+				"name":"Donald Trump",
+				"importance":"1",
+				"originalValue":"Donald Trump"
+			},
+			"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/4":
+			{"_typeGroup":"socialTag",
+				"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/4",
+				"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/16747e57-a0c1-3d7a-9d2e-08f25c9fbef0",
+				"forenduserdisplay":"true",
+				"name":"Cross-Strait relations",
+				"importance":"2",
+				"originalValue":"Cross-Strait relations"
+			},
+		"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/5":
+		{"_typeGroup":"socialTag",
+			"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/5",
+			"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/ebeaa566-8fea-381a-a533-f08e5e47f1de",
+			"forenduserdisplay":"true",
+			"name":"Climate change skepticism and denial",
+			"importance":"2",
+			"originalValue":"Climate change skepticism and denial"
+		},
+	"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/6":
+	{"_typeGroup":"socialTag",
+		"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/6",
+		"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/077112a0-efad-3011-b265-36c36a845314",
+		"forenduserdisplay":"true",
+		"name":"The Apprentice",
+		"importance":"2",
+		"originalValue":"The Apprentice (TV series)"
+	},
+"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/7":
+{"_typeGroup":"socialTag",
+	"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/7",
+	"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/312ffab8-6e89-3aa4-90a4-f9d5ca60f00a",
+	"forenduserdisplay":"true",
+	"name":"WWE Hall of Fame",
+	"importance":"2",
+	"originalValue":"WWE Hall of Fame"
+},
+"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/8":
+{"_typeGroup":"socialTag",
+	"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/8",
+	"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/450a0fe4-479f-343b-8ca1-2ced72c6b3ef",
+	"forenduserdisplay":"true",
+	"name":"Politics of the United States",
+	"importance":"2",
+	"originalValue":"Politics of the United States"
+},
+"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/9":
+{"_typeGroup":"socialTag",
+	"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/9",
+	"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/3ce530f4-622a-369c-b61c-64490c736349",
+	"forenduserdisplay":"true",
+	"name":"Trump",
+	"importance":"2",
+	"originalValue":"Trump (disambiguation)"
+},
+"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/10":
+{"_typeGroup":"socialTag",
+	"id":"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/SocialTag\/10",
+	"socialTag":"http:\/\/d.opencalais.com\/genericHasher-1\/6c814cb5-1427-36ed-9934-35a5d0ecfaa4",
+	"forenduserdisplay":"true",
+	"name":"One-China policy",
+	"importance":"2",
+	"originalValue":"One-China policy"
+},
+"http:\/\/d.opencalais.com\/dochash-1\/fdd00a7d-4e65-3aee-a4e9-e65038cb9276\/ComponentVersions":
+{"_typeGroup":"versions",
+	"version":["Deals Index:201612120530:201612120530",
+	"index-refineries:201612031525:201612031525",
+	"config-physicalAssets-powerStations:522:522",
+	"OA Index:201612022130:201612022130",
+	"NextTags:OneCalais_10.0-RELEASE:120",
+	"config-sca-DataPackage:38:38",
+	"com.clearforest.infoext.dial4j.plugins-basistechconfig:OneCalais_10.0-RELEASE:120",
+	"People Index:201612100927:201612100927",
+	"config-negativeSignature:522:522",
+	"Dial4J:OneCalais_8.6-RELEASE:209",
+	"OA Override:560:560",
+	"People Override:522:522",
+	"index-vessels:201612031730:201612031730",
+	"config-refineries:522:522",
+	"config-cse:560:560",
+	"config-vessels:522:522",
+	"OneCalais:OneCalais_10.0-RELEASE:120",
+	"config-physicalAssets-mines:522:522",
+	"SocialTags Index:201611221833:201611221833",
+	"BlackList:560:560",
+	"index-ports:201612031330:201612031330",
+	"config-physicalAssets-ports:522:522",
+	"config-drugs:522:522"]
+},
+"http:\/\/d.opencalais.com\/genericHasher-1\/28d4136e-72b5-34fe-90bf-65bb028013ac":
+{"_typeGroup":"entities",
+	"_type":"Country",
+	"forenduserdisplay":"true",
+	"name":"Taiwan",
+	"_typeReference":"http:\/\/s.opencalais.com\/1\/type\/em\/e\/Country",
+	"instances":[
+	{"detection":"[ have to stick to its long-standing position that ]Taiwan[ is part of \"one China,\" questioning nearly four]",
+	"prefix":" have to stick to its long-standing position that ",
+	"exact":"Taiwan",
+	"suffix":" is part of \"one China,\" questioning nearly four","offset":235,"length":6}],"relevance":0.2},
+	"http:\/\/d.opencalais.com\/genericHasher-1\/0d87e8a5-fb41-33c9-a1fb-bedf134b384e":{"_typeGroup":"entities","_type":"Position","forenduserdisplay":"false","name":"President","_typeReference":"http:\/\/s.opencalais.com\/1\/type\/em\/e\/Position","instances":[{"detection":"[name=\"file\"; filename=\"testnews1.txt\" \n \nU.S. ]President-elect[ Donald Trump said the United States did not]","prefix":"name=\"file\"; filename=\"testnews1.txt\" \n \nU.S. ","exact":"President-elect","suffix":" Donald Trump said the United States did not","offset":114,"length":15}],"relevance":0.2},"http:\/\/d.opencalais.com\/pershash-1\/3cb6735d-ad40-304e-b561-6fae64c71c32":{"_typeGroup":"entities","_type":"Person","forenduserdisplay":"true","name":"Donald Trump","persontype":"N\/A","nationality":"American","confidencelevel":"0.999","commonname":"Donald Trump","confidence":{"statisticalfeature":"0.998","dblookup":"0.95","resolution":"0.0","aggregate":"0.999"},"_typeReference":"http:\/\/s.opencalais.com\/1\/type\/em\/e\/Person","instances":[{"detection":"[ filename=\"testnews1.txt\" \n \nU.S. President-elect ]Donald Trump[ said the United States did not necessarily have]","prefix":" filename=\"testnews1.txt\" \n \nU.S. President-elect ","exact":"Donald Trump","suffix":" said the United States did not necessarily have","offset":130,"length":12}],"relevance":0.2},"http:\/\/d.opencalais.com\/genericHasher-1\/74ece01a-7ee9-36a2-9732-ffab82e7eb9a":{"_typeGroup":"entities","_type":"City","forenduserdisplay":"true","name":"Beijing","resolutions":[{"name":"Beijing,China","shortname":"Beijing","latitude":"39.91","longitude":"116.4","containedbycountry":"China","rcscode":"G:1X2"}],"_typeReference":"http:\/\/s.opencalais.com\/1\/type\/em\/e\/City","instances":[{"detection":"[ decades of policy in a move likely to antagonize ]Beijing[. \n--f98e6ebf769d4239b810e712ca5793dc--]","prefix":" decades of policy in a move likely to antagonize ","exact":"Beijing","suffix":". \n--f98e6ebf769d4239b810e712ca5793dc--","offset":339,"length":7}],"relevance":0.2},"http:\/\/d.opencalais.com\/genericHasher-1\/a54ac18b-a956-3b5c-b235-0609ca899305":{"_typeGroup":"entities","_type":"Country","forenduserdisplay":"true","name":"United States","resolutions":[{"name":"United States","shortname":"United States","latitude":"40.4230003233","longitude":"-98.7372244786","rcscode":"G:6J","permid":"100319"}],"_typeReference":"http:\/\/s.opencalais.com\/1\/type\/em\/e\/Country","instances":[{"detection":"[name=\"file\"; filename=\"testnews1.txt\" \n \n]U.S.[ President-elect Donald Trump said the United]","prefix":"name=\"file\"; filename=\"testnews1.txt\" \n \n","exact":"U.S.","suffix":" President-elect Donald Trump said the United","offset":109,"length":4},{"detection":"[\n \nU.S. President-elect Donald Trump said the ]United States[ did not necessarily have to stick to its]","prefix":"\n \nU.S. President-elect Donald Trump said the ","exact":"United States","suffix":" did not necessarily have to stick to its","offset":152,"length":13}],"relevance":0.2},"http:\/\/d.opencalais.com\/genericHasher-1\/d435be9b-9f83-34e6-a49b-af5948f07264":{"_typeGroup":"relations","_type":"Quotation","forenduserdisplay":"true","quotation":"the United States did not necessarily have to stick to its long-standing position that Taiwan is part of \"one China,\" questioning nearly four decades of policy in a move likely to antagonize Beijing","quotationtype":"Paraphrase","_typeReference":"http:\/\/s.opencalais.com\/1\/type\/em\/r\/Quotation","speaker":"http:\/\/d.opencalais.com\/pershash-1\/3cb6735d-ad40-304e-b561-6fae64c71c32","instances":[{"detection":"[name=\"file\"; filename=\"testnews1.txt\" \n \n]U.S. President-elect Donald Trump said the United States did not necessarily have to stick to its long-standing position that Taiwan is part of \"one China,\" questioning nearly four decades of policy in a move likely to antagonize Beijing.[ \n--f98e6ebf769d4239b810e712ca5793dc--]","prefix":"name=\"file\"; filename=\"testnews1.txt\" \n \n","exact":"U.S. President-elect Donald Trump said the United States did not necessarily have to stick to its long-standing position that Taiwan is part of \"one China,\" questioning nearly four decades of policy in a move likely to antagonize Beijing.","suffix":" \n--f98e6ebf769d4239b810e712ca5793dc--","offset":109,"length":238}]},"http:\/\/d.opencalais.com\/genericHasher-1\/7ea05779-bca9-3ec8-bd8d-4fdd8522895b":{"_typeGroup":"relations","_type":"PersonCareer","forenduserdisplay":"true","position":"President","careertype":"professional","status":"current","_typeReference":"http:\/\/s.opencalais.com\/1\/type\/em\/r\/PersonCareer","person":"http:\/\/d.opencalais.com\/pershash-1\/3cb6735d-ad40-304e-b561-6fae64c71c32","instances":[{"detection":"[name=\"file\"; filename=\"testnews1.txt\" \n \n]U.S. President-elect Donald Trump[ said the United States did not necessarily have]","prefix":"name=\"file\"; filename=\"testnews1.txt\" \n \n","exact":"U.S. President-elect Donald Trump","suffix":" said the United States did not necessarily have","offset":109,"length":33}]}}
